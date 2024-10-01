@@ -1,22 +1,22 @@
 const gameData = {
     "1": {
-        "text": "Youu and your veggie friends want to hangout in VeggieVille. What snacks are you bringing?",
+        "text": "Tú y tus amigos vegetarianos queréis pasar el rato en VeggieVille. ¿Qué aperitivos llevaréis?",
         "image" : "smaller_images/snackies.png",
 "choices": {
-            "Beef sticks": [2,["Jalapeno","Bok Choy"]],
+            "Palitos de carne de res": [2,["Jalapeno","Bok Choy"]],
             "Granola": [2,["Broccoli", "Garlic", "Pumpkin"]],
-            "Cucumbers and carrots": [2,["Potato", "Leek", "Tomato"]],
+            "Pepinos y zanahorias": [2,["Potato", "Leek", "Tomato"]],
             "Crackers and cheese": [2, ["Green Bean", "Carrot"]]
         }
     },
     "2": {
-        "text": " Where are you guys going to go?",
+        "text": "¿A dónde vais a ir chicos?",
         "image" : "smaller_images/where_to.png",
 "choices": {
-            "The beach": [3, ["Onion", "Green Bean", "Bok Choy"]],
-            "A cute book store": [4,["Broccoli", "Tomato","Leek", "Carrot"]],
-            "Your friend's apartment": [5,["Pumpkin", "Potato", "Napa Cabbage"]],
-            "Mount Evergetable": [6, ["Garlic", "Jalapeno"]]
+            "La playa": [3, ["Onion", "Green Bean", "Bok Choy"]],
+            "Una linda librería": [4,["Broccoli", "Tomato","Leek", "Carrot"]],
+            "El apartamento de tu amigo": [5,["Pumpkin", "Potato", "Napa Cabbage"]],
+            "Monte Evergetable": [6, ["Garlic", "Jalapeno"]]
         }
     },
     "3": {
