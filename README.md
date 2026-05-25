@@ -1,3 +1,3 @@
 https://christopherbingham99.github.io/vegetal/
 
-Hello world :)
+This is a spanish translation of the original project
